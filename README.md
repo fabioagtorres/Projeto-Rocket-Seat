@@ -43,5 +43,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 Esse projeto está sob a licença MIT.
 
 ---
+<<<<<<< HEAD
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+>>>>>>> 0daf0550ddf42b02792aba8ad715992bba1599e3
