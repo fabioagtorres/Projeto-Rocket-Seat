@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O 1º Projeto da Rocket Seat é um agragador de links para usar como catão de visitas online .
 
 ## 🔖 Layout
 
